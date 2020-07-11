@@ -19,7 +19,7 @@ Currently I am looking for Internships. **You can find me on [LinkedIn](https://
 
 - **Technical Practices**: _REST API Design_, _DevOps_
 
-**Say Hi on Twitter([@Vinit_Shahdeo](https://twitter.com/Vinit_Shahdeo))!** :heart: 💬
+**Say Hi on Facebook([@Anh Minh](https://www.facebook.com/anhminh.hoang.560/))!** :heart: 💬
 
 ### :rocket: My services include:
 
@@ -31,4 +31,4 @@ Currently I am looking for Internships. **You can find me on [LinkedIn](https://
 
 ### :hugs: Thank You!
 
-[![GitHub followers](https://img.shields.io/github/followers/vinitshahdeo.svg?label=Follow%20@anhminh10a2hoa&style=social)](https://github.com/anhminh10a2hoa)
+[![GitHub followers](https://img.shields.io/github/followers/anhminh10a2hoa.svg?label=Follow%20@anhminh10a2hoa&style=social)](https://github.com/anhminh10a2hoa)
