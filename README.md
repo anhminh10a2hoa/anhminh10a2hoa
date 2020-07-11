@@ -1,16 +1,34 @@
 ### Hi there 👋
 
-<!--
-**anhminh10a2hoa/anhminh10a2hoa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **[Minh Hoang](https://www.linkedin.com/in/minh-hoang-110510181/)**, a second-year student at Vassa University of Applied Science, Software Engineering major.
+Currently I am looking for Internships. **You can find me on [LinkedIn](https://www.linkedin.com/in/minh-hoang-110510181/)**.
 
-Here are some ideas to get you started:
+[![LinkedIn](https://img.shields.io/static/v1.svg?label=LinkedIn&message=@anhminh&logo=linkedin&style=flat&color=blue)](https://www.linkedin.com/in/minh-hoang-110510181/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### :gear: My skills include:
+
+- **Languages**: `Javascript`, `PHP`, `Java`
+
+- **Frontend**: `React Native`, `React JS`, `Redux`, `HTML`, `CSS`, `Bootstrap`
+
+- **Backend**: `Node.js`, `Express`, `AWS`, `Laravel`, `Spring`
+
+- **Databases**: `MySQL`, `MongoDB`
+
+- **Testing frameworks**: `Mocha`, `Chai`, `Jasmine`
+
+- **Technical Practices**: _REST API Design_, _DevOps_
+
+**Say Hi on Twitter([@Vinit_Shahdeo](https://twitter.com/Vinit_Shahdeo))!** :heart: 💬
+
+### :rocket: My services include:
+
+- Web development: working with React, HTML, CSS, and Bootstrap
+
+- Cloud computing: building back-end with NodeJs and Laravel then deploy to AWS or Heroku
+
+- Mobile Application: creating a mobile app with using React native
+
+### :hugs: Thank You!
+
+[![GitHub followers](https://img.shields.io/github/followers/vinitshahdeo.svg?label=Follow%20@anhminh10a2hoa&style=social)](https://github.com/anhminh10a2hoa)
