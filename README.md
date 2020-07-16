@@ -15,8 +15,6 @@ Currently I am looking for Internships. **You can find me on [LinkedIn](https://
 
 - **Databases**: `MySQL`, `MongoDB`
 
-- **Testing frameworks**: `Mocha`, `Chai`, `Jasmine`
-
 - **Technical Practices**: _REST API Design_, _DevOps_
 
 **Say Hi on Facebook([@Anh Minh](https://www.facebook.com/anhminh.hoang.560/))!** :heart: 💬
