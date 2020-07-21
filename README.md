@@ -7,7 +7,7 @@ Currently I am looking for Internships. **You can find me on [LinkedIn](https://
 
 ### :gear: My skills include:
 
-- **Languages**: `Javascript`, `PHP`, `Java`
+- **Languages**: `Javascript`, `PHP`, `Java`, `TypeScript`
 
 - **Frontend**: `React Native`, `React JS`, `Redux`, `HTML`, `CSS`, `Bootstrap`
 
