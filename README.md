@@ -7,13 +7,15 @@ Currently I am looking for Internships. **You can find me on [LinkedIn](https://
 
 ### :gear: My skills include:
 
-- **Languages**: `Javascript`, `PHP`, `Java`, `TypeScript`
+- **Languages**: `Javascript`, `TypeScript`, `Java`, `C#`, `PHP`
 
-- **Frontend**: `React Native`, `React JS`, `Redux`, `HTML`, `CSS`, `Bootstrap`
+- **Frontend**: `React`, `Vue`, `Redux`, `HTML`, `CSS`, `Bootstrap`
 
-- **Backend**: `Node.js`, `Express`, `AWS`, `Laravel`, `Spring`
+- **Backend**: `Express`, `Node`, `AWS`, `Spring`, `Servlet`
 
-- **Databases**: `MySQL`, `MongoDB`
+- **Databases**: `MySQL`, `MongoDB`, `Postgres`, `MariaDB`
+
+- **Map**: `MapBox`
 
 - **Technical Practices**: _REST API Design_, _DevOps_
 
@@ -21,9 +23,7 @@ Currently I am looking for Internships. **You can find me on [LinkedIn](https://
 
 ### :rocket: My services include:
 
-- Web development: working with React, HTML, CSS, and Bootstrap
-
-- Cloud computing: building back-end with NodeJs and Laravel then deploy to AWS or Heroku
+- Web development: create a eCommerce website or Map visualization website
 
 - Mobile Application: creating a mobile app with using React native
 
