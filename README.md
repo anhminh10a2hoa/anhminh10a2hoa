@@ -1,31 +1,16 @@
 ### Hi there 👋
 
-I'm **[Minh Hoang](https://www.linkedin.com/in/minh-hoang-110510181/)**, a second-year student at Vassa University of Applied Science, Software Engineering major.
-Currently I am looking for Internships. **You can find me on [LinkedIn](https://www.linkedin.com/in/minh-hoang-110510181/)**.
+- 🔭 I’m currently working at [@SofiaDigital](https://sofiadigital.com)
+- 🏠 I'm currently studying at [@VAMK](https://www.vamk.fi/en/)
+- ⚙️ Skills: JavaScript, TypeScript, Java, React, Vue, Node,...
+- 🎯 Targets: Learning everything I can and traveling the globe
+- 🤙: [Linkedin](https://www.linkedin.com/in/minh-hoang-110510181) | [Github](https://github.com/anhminh10a2hoa) | [Facebook](https://www.facebook.com/anhminh.hoang.560/)
+- 📬: anhminh10a2hoa@gmail.com
 
-[![LinkedIn](https://img.shields.io/static/v1.svg?label=LinkedIn&message=@anhminh&logo=linkedin&style=flat&color=blue)](https://www.linkedin.com/in/minh-hoang-110510181/)
+### :trophy:
 
-### :gear: My skills include:
-
-- **Languages**: `Javascript`, `TypeScript`, `Java`, `C#`, `PHP`
-
-- **Frontend**: `React`, `Vue`, `Redux`, `HTML`, `CSS`, `Bootstrap`
-
-- **Backend**: `Express`, `Node`, `AWS`, `Spring`, `Servlet`
-
-- **Databases**: `MySQL`, `MongoDB`, `Postgres`, `MariaDB`
-
-- **Map**: `MapBox`
-
-- **Technical Practices**: _REST API Design_, _DevOps_
-
-**Say Hi on Facebook([@Anh Minh](https://www.facebook.com/anhminh.hoang.560/))!** :heart: 💬
-
-### :rocket: My services include:
-
-- Web development: create a eCommerce website or Map visualization website
-
-- Mobile Application: creating a mobile app with using React native
+<img align="center" src="https://github-profile-trophy.vercel.app/?username=anhminh10a2hoa&theme=dracula&margin-w=15&margin-h=15&column=7&v=2" />
+<img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api/?username=anhminh10a2hoa&show_icons=true&title_color=4F8CC9&text_color=9f9f9f&bg_color=00000000&hide_border=true&icon_color=4F8CC9&hide_title=true&count_private=true" />
 
 ### :hugs: Thank You!
 
