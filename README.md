@@ -30,3 +30,5 @@ Currently I am looking for Internships. **You can find me on [LinkedIn](https://
 ### :hugs: Thank You!
 
 [![GitHub followers](https://img.shields.io/github/followers/anhminh10a2hoa.svg?label=Follow%20@anhminh10a2hoa&style=social)](https://github.com/anhminh10a2hoa)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anhminh10a2hoa&show_icons=true&theme=dark)
