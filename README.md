@@ -1,7 +1,7 @@
 # 👋 Hi there 
 
-- 🔭 I’m currently working at [@SofiaDigital](https://sofiadigital.com)
-- 🏠 I'm currently studying at [@VAMK](https://www.vamk.fi/en/)
+- 🔭 I’m currently working as a Software Engineer at [@Cargotec](https://www.cargotec.com)
+- 🏠 Graduated from [@VAMK](https://www.vamk.fi/en/)
 - 🎯 Targets: Learning everything and traveling the globe
 
 # 💻 Tech Stack
