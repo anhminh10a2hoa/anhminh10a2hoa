@@ -1,6 +1,6 @@
 # 👋 Hi there 
 
-- 🔭 I’m currently working as a Software Engineer at [@Cargotec](https://www.cargotec.com)
+- 🔭 I’m currently working as a Software Engineer at [@Viaccess-Orca](https://www.viaccess-orca.com)
 - 👨🏻‍💻 Studying Master’s Programme in Software, Web & Cloud at [@Tampere University](https://www.tuni.fi/en)
 - 🏠 Graduated from [@Vaasa University of Applied Sciences](https://www.vamk.fi/en/)
 - 🎯 Targets: Learning everything and traveling the globe
