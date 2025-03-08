@@ -5,7 +5,6 @@ I'm a passionate **Software Engineer** based in Finland with over 5 years of exp
 - 🌐 **Connect with me**: [LinkedIn](https://linkedin.com/in/minh-hoang-110510181)  
 - 💻 **Check out my work**: [GitHub](https://github.com/anhminh10a2hoa)  
 - 📍 **Currently**: Studying MS in Software, Web & Cloud at Tampere University  
-- 🔭 **I’m currently working as a Software Engineer at [@The KPI Institute](https://kpiinstitute.org/)**
 
 ## What I Bring to the Table
 
