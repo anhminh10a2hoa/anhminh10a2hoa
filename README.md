@@ -33,8 +33,11 @@ CLOUD    aws · docker · ci/cd · render
 
 ```
 [ CLASSIFIED ]  ai & llm integration
-[ CLASSIFIED ]  real-time streaming · smart tv
-[ CLASSIFIED ]  logistics · data visualization
+[ CLASSIFIED ]  real estate · proptech saas
+[ CLASSIFIED ]  fleet management · logistics
+[ CLASSIFIED ]  lms · learning platforms
+[ CLASSIFIED ]  billing & subscriptions (stripe · paddle)
+[ CLASSIFIED ]  data visualization
 [ REDACTED   ]  ███████████████  (ongoing)
 ```
 
